@@ -1,0 +1,8 @@
+Types Of Recommender Systems
+1. Content Based - Tag Based - Content based similiarity
+2. Collaboration Filtering - User based similiarity
+3. Hybrid
+
+@ PROJECT FLOW
+
+data > preprocessing > model building > website > deploy
